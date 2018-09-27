@@ -3,8 +3,7 @@ package com.warpfuture;
 import com.warpfuture.entity.MemoryBondColl;
 import com.warpfuture.entity.MemoryItemColl;
 import com.warpfuture.entity.MemoryItemMDL;
-
-import java.util.ArrayList;
+import sun.jvm.hotspot.memory.SymbolTable;
 
 import static com.warpfuture.dictgen.WordDictBLL.UpdateCharBondColl;
 import static com.warpfuture.dictgen.WordDictBLL.UpdateKeyWordColl;
@@ -21,7 +20,10 @@ public class Main {
         MemoryItemColl objKeyWordColl = new MemoryItemColl();
 
         //语料
-        String text = readTxtFile("/Users/benny/Coding/IdeaProjects/forgetNLP/src/com/warpfuture/text.txt");
+        String filePath = System.getProperty("user.dir")+"/text.txt";
+//        String text = readTxtFile("/Users/benny/Coding/IdeaProjects/forgetNLP/src/com/warpfuture/text.txt");
+        String text = readTxtFile(filePath);
+        System.out.println(filePath);
         System.out.println(text);
 
         //相邻词统计
