@@ -62,15 +62,15 @@
           <entry key="dummy" value="8" />
           <entry key="ft" value="10" />
           <entry key="java" value="5029" />
-          <entry key="md" value="77" />
-          <entry key="txt" value="66" />
+          <entry key="md" value="78" />
+          <entry key="txt" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="5029" />
-          <entry key="Markdown" value="77" />
-          <entry key="PLAIN_TEXT" value="74" />
+          <entry key="Markdown" value="78" />
+          <entry key="PLAIN_TEXT" value="76" />
           <entry key="VTL" value="10" />
         </counts>
       </usages-collector>
@@ -130,8 +130,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -383,7 +383,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538988677338" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538988887452" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
@@ -435,7 +435,7 @@
       <workItem from="1538022843640" duration="2077000" />
       <workItem from="1538190759243" duration="387000" />
       <workItem from="1538976593069" duration="592000" />
-      <workItem from="1538986862760" duration="1415000" />
+      <workItem from="1538986862760" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="完成&quot;遗忘算法生成词库for Java&quot; v0.1">
       <created>1537957772945</created>
@@ -465,11 +465,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538987887153</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改Readme">
+      <created>1538988706678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538988706678</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36476000" />
+    <option name="totallyTimeSpent" value="36683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -542,7 +549,8 @@
     <MESSAGE value="完成&quot;遗忘算法生成词库for Java&quot; 打包class v0.1" />
     <MESSAGE value="语料路径调整" />
     <MESSAGE value="添加 Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 Readme" />
+    <MESSAGE value="修改Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改Readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -725,8 +733,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>
